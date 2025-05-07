@@ -3,6 +3,7 @@ RENCANA KONTEN
 -Javascript
  *ES6
  *Framework Javascript
+ *Struktul Data Dasar
 -PHP Framework
 -Interview
 -Vlog
