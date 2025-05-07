@@ -3,7 +3,10 @@ RENCANA KONTEN
 -Javascript
  *ES6
  *Framework Javascript
- *Struktul Data Dasar
+ *Struktur Data Dasar
+    ^Vue
 -PHP Framework
+ *Laravel
 -Interview
 -Vlog
+-Python
