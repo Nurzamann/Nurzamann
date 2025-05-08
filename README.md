@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 ##### 🤝 Let’s Connect
 
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nurzaman0001@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nur-zaman-510175342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nrjaman__?igsh=dnBwMGFocDFycnlo&utm_source=qr)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nurzaman0001@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nur-zaman-510175342/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nrjaman__/)
+
+<img src="https://raw.githubusercontent.com/Nurzamann/Nurzamann/output/snake.svg" alt="Snake animation" />
+
 
 
 **Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
