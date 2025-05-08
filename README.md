@@ -25,15 +25,20 @@ Here are some ideas to get you started:
 #### 🚀 Skills & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=html,css,php,js" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
   </a>
 </p>
+
+##### 🤝 Let’s Connect
+
+
+[![My Contact](https://skillicons.dev/icons?i=gmail,linkedin,instagram)](https://skillicons.dev)
 
 **Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
 
