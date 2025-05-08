@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7o65vhqs6c4sy1nd8hooa894&unique={true|1|on|yes}" alt="Spotify recently played"  />
 </div>
 
 ###
