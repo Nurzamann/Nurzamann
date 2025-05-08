@@ -1,6 +1,8 @@
 ## Hi! 👋
 
-![Nurzaman](img/One%20Piece%20GIF%20by%20Toei%20Animation.gif)
+<p align="center">
+  <img src="img/One%20Piece%20GIF%20by%20Toei%20Animation.gif" alt="GIF Luffy Gear 5" width="100%">
+</p>
 
 <!--
 **Nurzamann/Nurzamann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Hey there! I'm _Nurzamann_ — this is where I chill, build, and grow.🌻**
+
+
 #### 🚀 Skills & Tools
 
 <p align="center">
@@ -30,7 +35,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+**Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
 
-
-- **Languages**: Python, Java, HTML, CSS, JavaScript  
-- **Tools**: Git, GitHub, VS Code, Excel (basic), 
