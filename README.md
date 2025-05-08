@@ -46,3 +46,10 @@ Here are some ideas to get you started:
 
 **Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
 
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
+###
