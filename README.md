@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+**Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
+
 ##### 🤝 Let’s Connect
 
 
@@ -43,13 +45,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/Nurzamann/Nurzamann/output/snake.svg" alt="Snake animation" />
 
 
-
-**Feel free to explore my repositories, drop a ⭐ if you like something, or connect for collaboration!**
-
-###
-
-<div align="center">
+<div align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=j7o65vhqs6c4sy1nd8hooa894&unique={true|1|on|yes}" alt="Spotify recently played"  />
 </div>
 
-###
