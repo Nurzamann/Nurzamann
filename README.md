@@ -1,7 +1,7 @@
 ## Hi! 👋
 
 <p align="center">
-  <img src="img/One%20Piece%20GIF%20by%20Toei%20Animation.gif" alt="GIF Luffy Gear 5" width="100%">
+  <img src="img/Happy Hayao Miyazaki GIF by Maudit.gif" alt="GIF Luffy Gear 5" width="100%">
 </p>
 
 <!--
