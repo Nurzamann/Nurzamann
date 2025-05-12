@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,java,js" />
   </a>
 </p>
 <p align="center">
